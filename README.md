@@ -4,6 +4,8 @@ Este laboratorio es parte del curso [Red Teaming LLM Applications](https://www.d
 
 Cada notebook tiene el código original del curso más al menos una variación de ataque que hice yo, con la respuesta que obtuve y un pequeño análisis de qué pasó.
 
+![sesion terminadas](sesionterminada.png)
+
 ---
 
 ## L1 - Overview of LLM Vulnerabilities
